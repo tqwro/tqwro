@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tqwro
-- 🌐 I'ts Game Hosting Company
+- 🌐 
 - 📌 Location: Romania
 - 📶 WebSite: https://tqw.ro
 
